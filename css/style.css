@@ -1,0 +1,138 @@
+html{scroll-behavior: smooth !important;} /* when click a tag then page scroll smoothly */
+img{max-width:100%;max-height:100%;}
+#MainNave{height:75px;}
+#Logo img{}
+@font-face{
+	font-family:edo;
+	src:url(../font/Edo.woff);
+}
+/* Heder Background Option */
+#MainHeader{height:630px;width:100%;background:
+linear-gradient(#00000060,#00000060),
+linear-gradient(#00000060,#00000060),
+url(../picture/background.jpg);background-size:cover;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;}
+#LogoA{display:none;}
+#MainNave li{list-style:none;float:right;margin:25px;}
+#MainNave li:hover{transition:0.5s;float:right;margin:25px;}
+#MainNave li a{text-decoration:none;font-size:18px;color:#d9d8e4;}
+#MainNave a:active{color:red;}
+#MainNave li a:hover{transition:all 0.5s;text-decoration:underline;}
+#MainNave img{height:73px;}
+.Scrool{position:fixed;width:100%;z-index:1;background:#e0e0e0;border-bottom:2px solid #18235dba;transition:all 0.5s;}
+.Scrool li a{color:#040115!important;}
+.Scrool li a:hover{transition:all 0.5s;}
+.Scrool li a:active{color:red!important;}
+#TogelDiv li{display:none;}
+/* when screen are 1000px */
+@media screen and (max-width:1000px){
+#MainNave li{margin:25px 15px;}
+}
+/* when screen are 770px */
+@media screen and (max-width:770px){
+#MainNave li{display:none;}
+.MainDivHt{height:377px!important;}
+#LogoA{display:block;float:right;text-decoration:none;margin:25px 11px;transition:all 1s;}
+/* when click the bar */
+.TogelDiv{height: 300px;width: 100%;margin-top:-16px;background:#696aa5;border-radius: 0px 0px 3px 3px;transition:all 0.5s;}
+.TogelDiv li{display:block!important;float:left;width:100%;margin: 15px 0px!important;}
+.TogelDiv li a{}
+.TogelDiv li a:hover{padding-left:5%;transition:all 1s;}
+#CntFm{width:400px!important;margin:0 auto;}
+}
+/* when screen are 500px */
+@media screen and (max-width:500px){
+#CntFm{width:250px!important;margin:0 auto;}
+#Myifram{height:190px;width:250px!important;}
+}
+
+/* when sren are 767 */
+@media screen and (max-width:767px){
+  #skillPhoto {display:none;}
+  #secton4{margin-bottom:50px;}
+}
+#AboutDiv{margin:0px auto;}
+h2{border-bottom:2px solid #a0a0a0;text-align:center;margin:30px 0px;padding-bottom:10px;font-family:edo;}
+#aboutImage img{max-width:100%;}
+#section3{background:#060e35ad;padding-bottom: 30px;}
+#colorDiv{color:#524949;text-align:center;}
+#ServicecolorDiv{color:#eaeaea;}
+#svDiv {padding:7px;cursor:pointer;}
+#svDiv:hover{transition:all 1s; padding:7px;transform:scale(0.9);}
+#borderDiv {border:1px solid #3e4154;padding: 5px;border-radius: 3px;background:#e1e2e6;box-shadow:-4px -6px 4px -3px #848590;}
+#abouyId{letter-spacing:0.5px;line-height:30px;}
+#Footer{background:#1e1e25;}
+#Copy{background:#161619;}
+#Copy a:visited{text-decoration:underline}
+.Position{padding: 20px 10px 5px 0px;}
+#Footer p{color:#9798a7;}
+#Footer a{color:#842c47;text-decoration:none;}
+#Footer a:hover{color:#9798a7;text-decoration:underline;}
+#footerabDiv{color:#9798a7;padding-top: 30px;font-family:edo;}
+#connect{list-style: none;padding:0px;}
+.cnt_adrs{color: #9798a7;margin: 0px;}
+.mail{margin: 0px;}
+#ftrUl{padding-left:0px;}
+#ftrUl li{list-style:none;}
+#ftrUl li a{color:#9798a7;}
+#Myifram{height:190px;border:1px solid #ffffff;overflow: hidden;border-top: none;border-left: none;overflow:hidden;}
+#ftrUl a:hover{color:#842c47;text-decoration:underline;}
+#ServiceIcon{color:#e1e2e6;font-size:50px!important;margin:20px;border:1px solid #1e254e;padding:15px;background:#3b3b79;border-radius:3px;}
+#ServiceIcon:hover{transform:scale(0.9);transition:all 1s;}
+#HeadTittle h1{color:#4a54bf;margin-top:10%;font-family:edo;font-size:50px;letter-spacing: 2px;}
+#AnimMargDiv{margin-left:34px;}
+#WcColor{color:#cbd0f3;}
+/* Animation CSS Start */
+.Anctnr{display:flex;justify-content:left;align-items:left;}
+.Anctnr p{font-size:35px;padding:0.5rem;font-weight:bold;letter-spacing:0.1rem;overflow:hidden;}
+.Anctnr p span.typed-text{font-weight:normal;color:#8ad0e5;font-family:sans-serif;}
+.Anctnr p span.cursor{display:inline-block;background-color:#ccc;margin-left:0.1rem;width:3px;animation:blink 1s infinite;}
+.Anctnr p span.cursor.typing{animation:none;}
+@keyframes blink{
+  0%  	{ background-color: #ccc;}
+  49% 	{ background-color: #ccc;}
+  50% 	{ background-color: transparent;}
+  99%	{ background-color: transparent;}
+  100%	{ background-color: #ccc;}
+}
+/* Animation CSS Eand */
+#AnmSocl{}
+#AnmSocl li:first-child{padding:8px 6px;}
+#AnmSocl li:last-child{padding:8px 5px;}
+#AnmSocl li:hover{background:#33335f;transform:scale(0.95);transition:0.5s;}
+#AnmSocl li{list-style:none;float:left;margin:0px 5px;border:1px solid #adacb5;border-radius:50%;padding:8px 3px;}
+#AnmSocl li a{margin: 0px 10px;}
+#AnmSocl li a i{font-size:15px;color:#e5e4ea;}
+#AnmSocl li a:hover{}
+.progress{height:5px;width:100%;}
+.ProGressClass{animation:Progress 2s;background: #33339a;;}
+@keyframes Progress{
+	0%{width:0%;}
+}
+/* My skills Option */
+#secton4{margin-top:50px;}
+#PgSkl{font-weight:bold;margin:5px 0px!important;}
+#PgSklN{font-weight:bold;margin:5px 0px;}
+#CntFm{width:500px;margin:0 auto;}
+#name{margin:10px 0px;}
+/* Contact Me Option */
+#section5{height:500px;width:100%;background:
+linear-gradient(#00000075,#00000075),
+linear-gradient(#00000075,#00000075),
+url(../picture/ContactBg.png);background-size:cover;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;padding:10px 0px;}
+#ContactForm h2{color:#eaeaea;border-bottom:none;}
+.form-control{background-color:#e0e0e0cf;border:1px solid #ced4daa6;}
+#WrkImg{}
+#WrkImg:hover{transform:scale(0.9);transition:all 1s;}
+#WrkImg img{border:1px solid white;border-radius:5px;}
+#WrkImg h5{font-weight:bold;}
+#WrksHdng{border-bottom:none;margin-bottom:0px}
+#WrksHdngP{margin-bottom:30px;text-align:center;font-weight:bold;}
+#WrksRow{margin-bottom:30px;}
+/* Life Journey Option */
+#section7{color:#cccdd2;width:100%;background:
+linear-gradient(#00000075,#00000075),
+linear-gradient(#00000075,#00000075),
+url(../picture/life-journey.jpg);background-size:cover;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;padding:10px 0px;}
+#FontSize{font-size:60px;}
+#Project{margin-bottom:50px;}
+/*This web site Css are eand you need to me for making web site so please conatct me now. Thanks*/
