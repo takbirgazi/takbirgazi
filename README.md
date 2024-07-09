@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/takbirgazi/)[<img height="75" src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/Facebook.png">](https://www.facebook.com/takbirgazibd)[<img height="75" src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/Twitter.png"></p>](https://twitter.com/takbirgazibd)
+<p align="center">[<img height="75" src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/takbirgazi/)[<img height="75" src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/Facebook.png">](https://www.facebook.com/takbirgazibd)[<img height="75" src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/Twitter.png"></p>](https://twitter.com/takbirgazibd)
 
 <br />
 
