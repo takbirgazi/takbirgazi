@@ -13,7 +13,11 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/takbirgazi/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/takbirgazibd)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">](https://twitter.com/takbirgazibd)</p>]
+<p align="center">
+  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/takbirgazi/)
+  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/takbirgazibd)
+  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">](https://twitter.com/takbirgazibd)
+</p>
 
 <br />
 
@@ -41,5 +45,5 @@
 ## :eyes: Current overview
 
 ### 🌱 I’m exploring - Next.js 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
