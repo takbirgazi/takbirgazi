@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/takbirgazibd">
-<img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/banner.jpg" />
+<img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/banner.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
