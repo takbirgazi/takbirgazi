@@ -23,6 +23,8 @@
 <p align="center">
 <img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/css.png"/>
+<img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/wordpress.png"/>
+<img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/elementor.png"/>
 <img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/JavaScript.png"/>
 </p>
 <p align="center">
