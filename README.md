@@ -37,6 +37,7 @@
 <img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/express.png"/>
 <img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/mongo.png"/>
 <img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/php.png"/>
+<img src="https://github.com/takbirgazi/takbirgazi/blob/main/images/icons/mysql.png"/>
 </p><br/>
 
 ## :eyes: Current overview
