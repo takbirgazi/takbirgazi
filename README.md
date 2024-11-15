@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=takbirgazi&theme=dark&border_radius=4&card_width=500&card_height=200&background=65%2C000000%2C1727EB" alt="GitHub Streak" /></a>
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=takbirgazi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## :mailbox: Reach me out
