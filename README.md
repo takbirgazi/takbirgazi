@@ -44,6 +44,6 @@
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - Next.js 
+### 🌱 I’m exploring - Redux 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
